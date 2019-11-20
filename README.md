@@ -2,6 +2,18 @@ Various Ports for ZOOTR
 
 Note: I'm lacking a lot of credits due to being a midi horder and not knowing where I got many of the midis from, i'm still searching and filling in the blanks but it's going to take a while, if you know please leave it as an issue on the github and i'll fix it right away. A lot of them are probably from https://www.vgmusic.com/ if you want to help look at all.
 
+Note: You'll need the offline version of the randomizer: https://github.com/TestRunnerSRL/OoT-Randomizer
+
+How to install:
+	
+	1. Click clone or download and download the zip
+	2. Extract Zip
+	3. Copy Music folder into your OoT-Randomizer-Dev folder
+	4. Start the randomizer using gui.py in OoT-Randomizer-Dev folder
+	5. Go over to SFX tab and set Background Music and/or Fanfares to RANDOM
+	6. ???
+	7. Profit!
+
 Credits:
 
 Background Music:
