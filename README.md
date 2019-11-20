@@ -140,7 +140,8 @@ Background Music:
 	Midi Source: ?
 	Notes: Was gonna loop it properly but it's like a 5 minute song and constantly checking 	the loop was annoying so eh didn't bother.
 	
-	Fanfares:
+Fanfares:
+
 	Legend of Zelda: Twilight Princess - Learn Skill
 	Ported by: LuigiXHero
 	Midi Creator: ?
