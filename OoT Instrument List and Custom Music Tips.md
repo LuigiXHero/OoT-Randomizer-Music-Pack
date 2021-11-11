@@ -1,10 +1,11 @@
-This is the list I use to map midis to the right instrument for each bank. Figured i'll leave it in here for any wannabe music converter. Note to get drums to work have it as channel 10 and set the instrument to 128 (Gunshot)
+This is the list I use to map midis to the right instrument for each bank. Figured i'll leave it in here for any wannabe music converter. 
+Note to get drums to work have it as channel 10 and set the instrument to 128 (Gunshot)
 
 Also: different banks have different drumsets and some of them don't have drums at all. Main ones to remember is that Set 3 and a lot of others has orchestra set and Set 8 and F have the tambourine set
 
 So for example say you have a song that has channel 1 be a Clarinet and Channel 2 is a piano, with drums and you want it to use set 3
 
-You change Channel one to be instrument 3 (Eletric Grand Piano), set Channel 2 to 14 (Xylophone), and set channel 10 to instrument 128 (Gunshot)
+You change Channel one to be instrument 3 (Electric Grand Piano), set Channel 2 to 14 (Xylophone), and set channel 10 to instrument 128 (Gunshot)
 
 Note: After setting channel 10 to Gunshots you won't hear it anymore, that's normal
 
@@ -12,7 +13,8 @@ It'll sound weird in whatever midi editing program you are using but once you ex
 
 Also useful is this pack of OoT Soundfonts: https://www.mediafire.com/file/9pei4yktfd24fdo/OoT_Soundfonts.zip/file
 
-There is an all soundfont and a every bank gets one also. Really useful to testing songs quicker. Just note that it isn't entirely accurate on the pitches of instruments so extra tweaking might have to be done.
+There is an all soundfont and every bank gets one also. Really useful to testing songs quicker. 
+Just note that it isn't entirely accurate on the pitches of instruments so extra tweaking might have to be done.
 
 Instrument List for Seq64 conversions:
 Set 3 Main Orchestra
