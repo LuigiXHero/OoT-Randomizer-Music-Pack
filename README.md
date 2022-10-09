@@ -1,3 +1,7 @@
+THIS HAS NOW BEEN MERGED INTO DARUNIA'S JOY PACK: https://github.com/DaruniasJoy/OoT-Custom-Sequences
+
+The only exception is What is Love by Hadaway which you can grab from here.
+
 Various Ports for ZOOTR
 
 Note: I'm lacking a lot of credits due to being a midi horder and not knowing where I got many of the midis from, i'm still searching and filling in the blanks but it's going to take a while, if you know please leave it as an issue on the github and i'll fix it right away. A lot of them are probably from https://www.vgmusic.com/ if you want to help look at all.
