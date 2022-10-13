@@ -1,6 +1,6 @@
 THIS HAS NOW BEEN MERGED INTO DARUNIA'S JOY PACK: https://github.com/DaruniasJoy/OoT-Custom-Sequences
 
-The only exception is the pop music which wasn't added since DJ only doesn't do those.
+The only exception is the pop music which wasn't added since DJ doesn't do those.
 
 Various Ports for ZOOTR
 
