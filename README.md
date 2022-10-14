@@ -140,6 +140,11 @@ Background Music:
 	Midi Creator: 8bitmoomin
 	Midi Source: https://www.vgmusic.com/new-files/Sea_of_Trees.mid
 	
+	The Elder Scrolls III: Morrowind - Main Theme
+	Ported by: LuigiXHero
+	Midi Creator: Ilya Gordon
+	Midi Source: http://www.vgmusic.com/music/console/microsoft/xbox/morrowind.mid
+	
 	Wonder Boy in Monster Land - Final Boss (Arranged)
 	Ported by: LuigiXHero
 	Midi Creator: Lord Oddeye
